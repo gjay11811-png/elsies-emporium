@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[64934,["/elsies-emporium/_next/static/chunks/158myu8e_yme3.js","/elsies-emporium/_next/static/chunks/15obhq7htv1y7.js","/elsies-emporium/_next/static/chunks/20hc1t_wqzxbn.js","/elsies-emporium/_next/static/chunks/23dezmrmp3r0t.js"],"ShopShell"]
+3:"$Sreact.suspense"
+4:I[55576,["/elsies-emporium/_next/static/chunks/158myu8e_yme3.js","/elsies-emporium/_next/static/chunks/15obhq7htv1y7.js","/elsies-emporium/_next/static/chunks/20hc1t_wqzxbn.js","/elsies-emporium/_next/static/chunks/23dezmrmp3r0t.js"],"ProductPage"]
+5:I[97367,["/elsies-emporium/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$3",null,{"children":["$","$L4",null,{}]}]}],[["$","script","script-0",{"src":"/elsies-emporium/_next/static/chunks/15obhq7htv1y7.js","async":true}],["$","script","script-1",{"src":"/elsies-emporium/_next/static/chunks/20hc1t_wqzxbn.js","async":true}],["$","script","script-2",{"src":"/elsies-emporium/_next/static/chunks/23dezmrmp3r0t.js","async":true}]],["$","$L5",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RPAlnbaTYpx2a0lfZcKA0"}
+6:null
