@@ -43,3 +43,11 @@ Placeholder product and lifestyle photography from [Unsplash](https://unsplash.c
 | figures-wall.jpg | FJQM9AOE7A4 |
 | figures-shelf.jpg | mAaJ2QzsFKM |
 | vintage-cards.jpg | G1Z97mHZsR8 |
+| towels-rainbow.jpg | ggcfm_mSjLg |
+| towels-stack.jpg | sHK_MA3nKWM |
+| towels-navy.jpg | 3CVqadZfHJg |
+| mug-white.jpg | AJsdrXaRhHk |
+| teapot-green.jpg | ZeuI2N-ses4 |
+| moka-pots.jpg | Pzzzq4HbLDk |
+| skillet.jpg | KusGQYgRgSE |
+| saucepan.jpg | rCe2KVj0GSE |
